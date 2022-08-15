@@ -11,7 +11,7 @@
       <start>2021-11-30T23:00Z</start>
       <end>2021-12-01T23:00Z</end>
    </schedule_Period.timeInterval>
-   <confirmed_MarketDocument.mRID>EntityXYZ_A01_01.12.2021</received_MarketDocument.mRID> <!-- ID of the schedule message received by TSO from BRP -->
+   <confirmed_MarketDocument.mRID>EntityXYZ_A01_01.12.2021</onfirmed_MarketDocument.mRID> <!-- ID of the schedule message received by TSO from BRP -->
    <confirmed_MarketDocument.revisionNumber>1</confirmed_MarketDocument.revisionNumber>
    <domain.mRID codingScheme="A01">10Y1001A1001A39I</domain.mRID>
    <process.processType>A01</process.processType>
